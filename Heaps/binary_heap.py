@@ -65,7 +65,23 @@ class minHeap:
 
 		if (smallest != index):
 			self.heap[index] , self.heap[smallest] = self.heap[smallest] , self.heap[index]
-			MinHeapify(smallest)	
+			self.MinHeapify(smallest)
+
+	def extractMin(self):
+		if self.heap_size <= 0:
+			print '####################    Nothing to extract :( #####################'
+		
+		if self.heap_size == 1:
+			self.heap_size = self.heap_size - 1
+			element = self.heap.pop()
+			return element
+
+		element = self.heap[0]
+		self.heap_size = self.heap_size - 1
+		last_element = self.heap.pop()
+		self.heap[0] = last_element
+		self.MinHeapify(0)
+		return element				
 
 	# Insert in min heap
 	def insert(self , key):
@@ -92,4 +108,12 @@ heap.insert(11)
 heap.insert(4)
 heap.insert(30)
 heap.insert(4)
+heap.debug()
+print 'Min : ' + str(heap.extractMin())
+heap.debug()					
+print 'Min : ' + str(heap.extractMin())
+heap.debug()					
+print 'Min : ' + str(heap.extractMin())
+heap.debug()					
+print 'Min : ' + str(heap.extractMin())
 heap.debug()					
