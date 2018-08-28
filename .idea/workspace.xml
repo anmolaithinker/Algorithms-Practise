@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22b21e9d-4cc1-425a-abf8-642e4ead8d8f" name="Default" comment="" />
+    <list default="true" id="22b21e9d-4cc1-425a-abf8-642e4ead8d8f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/DP/egg-dropping.py" afterPath="$PROJECT_DIR$/DP/egg-dropping.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +19,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="egg-dropping.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="egg-dropping.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Recursion/egg-dropping.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
               <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="egg-dropping.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DP/egg-dropping.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -46,8 +58,8 @@
         <option value="$PROJECT_DIR$/BackTracking/NQueen-Problem.py" />
         <option value="$PROJECT_DIR$/BackTracking/ColoringProblem.py" />
         <option value="$PROJECT_DIR$/BackTracking/Hamiltonian-Cycle.py" />
-        <option value="$PROJECT_DIR$/DP/egg-dropping.py" />
         <option value="$PROJECT_DIR$/Recursion/egg-dropping.py" />
+        <option value="$PROJECT_DIR$/DP/egg-dropping.py" />
       </list>
     </option>
   </component>
@@ -86,6 +98,11 @@
             <path>
               <item name="Data Structures Algo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data Structures Algo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Data Structures Algo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data Structures Algo" type="462c0819:PsiDirectoryNode" />
+              <item name="DP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Data Structures Algo" type="b2602c69:ProjectViewProjectNode" />
@@ -299,18 +316,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DP/egg-dropping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Recursion/egg-dropping.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/egg-dropping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
           <folding />
         </state>
       </provider>
