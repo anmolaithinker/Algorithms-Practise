@@ -13,7 +13,9 @@ def merge(arr,p,q,r):
 		l.append(arr[p + i])
 
 	for i in range(right_array_size):
-		r.append(q + i + 1)	
+		r.append(q + i + 1)
+
+			
 
 
 # arr - array
