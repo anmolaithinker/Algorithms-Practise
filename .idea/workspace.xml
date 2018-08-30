@@ -11,33 +11,49 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Data_Structures_Algo$max_subsquare_1s.coverage" NAME="max-subsquare-1s Coverage Results" MODIFIED="1535575315632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
-    <SUITE FILE_PATH="coverage/Data_Structures_Algo$ColoringProblem.coverage" NAME="ColoringProblem Coverage Results" MODIFIED="1535466078261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BackTracking" />
     <SUITE FILE_PATH="coverage/Data_Structures_Algo$ugly_numbers.coverage" NAME="ugly_numbers Coverage Results" MODIFIED="1535527132782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/misc" />
     <SUITE FILE_PATH="coverage/Data_Structures_Algo$egg_dropping__1_.coverage" NAME="egg-dropping (1) Coverage Results" MODIFIED="1535471126089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
-    <SUITE FILE_PATH="coverage/Data_Structures_Algo$word_break.coverage" NAME="word-break Coverage Results" MODIFIED="1535475777845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
-    <SUITE FILE_PATH="coverage/Data_Structures_Algo$Fibonacci.coverage" NAME="Fibonacci Coverage Results" MODIFIED="1535527365937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
-    <SUITE FILE_PATH="coverage/Data_Structures_Algo$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1535527539830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
+    <SUITE FILE_PATH="coverage/Data_Structures_Algo$min_cost_path.coverage" NAME="min_cost_path Coverage Results" MODIFIED="1535576194332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
     <SUITE FILE_PATH="coverage/Data_Structures_Algo$RatinaMaze.coverage" NAME="RatinaMaze Coverage Results" MODIFIED="1535460931766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BackTracking" />
     <SUITE FILE_PATH="coverage/Data_Structures_Algo$NQueen_Problem.coverage" NAME="NQueen-Problem Coverage Results" MODIFIED="1535464318697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BackTracking" />
     <SUITE FILE_PATH="coverage/Data_Structures_Algo$egg_dropping.coverage" NAME="egg-dropping Coverage Results" MODIFIED="1535469924897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
+    <SUITE FILE_PATH="coverage/Data_Structures_Algo$ColoringProblem.coverage" NAME="ColoringProblem Coverage Results" MODIFIED="1535466078261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BackTracking" />
+    <SUITE FILE_PATH="coverage/Data_Structures_Algo$Dijkistra_2.coverage" NAME="Dijkistra-2 Coverage Results" MODIFIED="1535640189746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graphs" />
+    <SUITE FILE_PATH="coverage/Data_Structures_Algo$Dijkistra_1.coverage" NAME="Dijkistra-1 Coverage Results" MODIFIED="1535611103146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graphs" />
+    <SUITE FILE_PATH="coverage/Data_Structures_Algo$HeapQImplementation.coverage" NAME="HeapQImplementation Coverage Results" MODIFIED="1535639739435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Useful-Programs" />
+    <SUITE FILE_PATH="coverage/Data_Structures_Algo$word_break.coverage" NAME="word-break Coverage Results" MODIFIED="1535475777845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
+    <SUITE FILE_PATH="coverage/Data_Structures_Algo$Fibonacci.coverage" NAME="Fibonacci Coverage Results" MODIFIED="1535527365937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
+    <SUITE FILE_PATH="coverage/Data_Structures_Algo$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1535527539830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="catlan-numbers.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Recursion/catlan-numbers.py">
+      <file leaf-file-name="Dijkistra-1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Graphs/Dijkistra-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="864">
+              <caret line="48" column="25" lean-forward="true" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="max-subsquare-1s.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DP/max-subsquare-1s.py">
+      <file leaf-file-name="Dijkistra-2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Graphs/Dijkistra-2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="250">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding>
+                <element signature="e#1#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeapQImplementation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Useful-Programs/HeapQImplementation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -72,6 +88,10 @@
         <option value="$PROJECT_DIR$/DP/fibonacci.py" />
         <option value="$PROJECT_DIR$/Recursion/catlan-numbers.py" />
         <option value="$PROJECT_DIR$/DP/max-subsquare-1s.py" />
+        <option value="$PROJECT_DIR$/DP/min_cost_path.py" />
+        <option value="$PROJECT_DIR$/Graphs/Dijkistra-1.py" />
+        <option value="$PROJECT_DIR$/Useful-Programs/HeapQImplementation.py" />
+        <option value="$PROJECT_DIR$/Graphs/Dijkistra-2.py" />
       </list>
     </option>
   </component>
@@ -113,17 +133,12 @@
             <path>
               <item name="Data Structures Algo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data Structures Algo" type="462c0819:PsiDirectoryNode" />
-              <item name="DP" type="462c0819:PsiDirectoryNode" />
+              <item name="Graphs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Data Structures Algo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data Structures Algo" type="462c0819:PsiDirectoryNode" />
-              <item name="misc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data Structures Algo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data Structures Algo" type="462c0819:PsiDirectoryNode" />
-              <item name="Recursion" type="462c0819:PsiDirectoryNode" />
+              <item name="Useful-Programs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,40 +168,59 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.max-subsquare-1s">
-    <configuration name="Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Dijkistra-2">
+    <configuration name="Dijkistra-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graphs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Data Structures Algo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/Fibonacci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graphs/Dijkistra-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Dijkistra-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graphs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Data Structures Algo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/fibonacci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graphs/Dijkistra-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="HeapQImplementation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Useful-Programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Data Structures Algo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Useful-Programs/HeapQImplementation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,58 +245,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ugly_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="min_cost_path" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/misc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Data Structures Algo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/misc/ugly_numbers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="word-break" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Data Structures Algo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/word-break.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/min_cost_path.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.word-break" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ugly_numbers" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Fibonacci" />
-      <item index="3" class="java.lang.String" itemvalue="Python.fibonacci" />
-      <item index="4" class="java.lang.String" itemvalue="Python.max-subsquare-1s" />
+      <item index="0" class="java.lang.String" itemvalue="Python.max-subsquare-1s" />
+      <item index="1" class="java.lang.String" itemvalue="Python.min_cost_path" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Dijkistra-1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.HeapQImplementation" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Dijkistra-2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.max-subsquare-1s" />
-        <item index="1" class="java.lang.String" itemvalue="Python.fibonacci" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Fibonacci" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ugly_numbers" />
-        <item index="4" class="java.lang.String" itemvalue="Python.word-break" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Dijkistra-2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.HeapQImplementation" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Dijkistra-1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.min_cost_path" />
+        <item index="4" class="java.lang.String" itemvalue="Python.max-subsquare-1s" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +330,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -437,6 +454,40 @@
         <state relative-caret-position="252">
           <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/min_cost_path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Useful-Programs/HeapQImplementation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graphs/Dijkistra-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="48" column="25" lean-forward="true" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graphs/Dijkistra-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
